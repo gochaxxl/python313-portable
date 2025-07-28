@@ -26,13 +26,13 @@ Includes `pip`, `Lib`, `Scripts`, and a `.bat` file to optionally add Python to 
 
 ### 1. Extract the archive
 
-Unpack `python313-portable.7z` to any folder, e.g. `C:\MyTools\python313-portable`
+Unpack `python313.7z` to any folder, e.g. `C:\MyTools\python313-portable`
 
 ### 2. (Optional) Add to user PATH
 
 Run:
 
-add_to_path.bat
+add_Python_to_PATH.bat
 
 You’ll be prompted for confirmation before anything is added.
 This only modifies the user PATH (HKCU), never the system PATH.
