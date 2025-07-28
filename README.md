@@ -32,7 +32,6 @@ Unpack `python313-portable.7z` to any folder, e.g. `C:\MyTools\python313-portabl
 
 Run:
 
-```cmd
 add_to_path.bat
 
 You’ll be prompted for confirmation before anything is added.
